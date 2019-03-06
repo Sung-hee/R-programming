@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551871047052.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A3F18E17",
+    "lastKnownWriteTime" : 1551871624,
+    "last_content_update" : 1551871624912,
+    "path" : "~/Hees/R/vector.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "42",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

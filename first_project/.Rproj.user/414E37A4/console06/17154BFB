@@ -1,0 +1,9 @@
+]0;~/Hees/R/first_project[?1034hjeongheeui-MacBook-Pro:first_project jeonghee$ [Kjeongheeui-MacBook-Pro:first_project jeonghee$ 
+]0;~/Hees/R/first_projectjeongheeui-MacBook-Pro:first_project jeonghee$ ls
+first_project.Rproj	iris.rds
+]0;~/Hees/R/first_projectjeongheeui-MacBook-Pro:first_project jeonghee$ cd ..
+]0;~/Hees/Rjeongheeui-MacBook-Pro:R jeonghee$ ls
+first.R		first_project	test.R		vector.R
+]0;~/Hees/Rjeongheeui-MacBook-Pro:R jeonghee$ git init
+Initialized empty Git repository in /Users/jeonghee/Hees/R/.git/
+]0;~/Hees/Rjeongheeui-MacBook-Pro:R jeonghee$ git add .
