@@ -40,3 +40,16 @@ if (any(c(F,F,T))) {
 if (c(T,T,T) || c(F,F,F,F)) {
   print("|| works!")
 }
+
+# 중첩해서 작성할 수 있습니다.
+
+x <- 6
+if (x > 5) {
+  x <- x + 3
+} else if (x == 0) {
+  x <- x
+} else {
+  x <- x - 3
+}
+
+x
