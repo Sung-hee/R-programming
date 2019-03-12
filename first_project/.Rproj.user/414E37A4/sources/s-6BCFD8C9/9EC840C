@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552392884019.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1463837704",
+    "id" : "9EC840C",
+    "lastKnownWriteTime" : 1552393309,
+    "last_content_update" : 1552393431051,
+    "path" : "~/Hees/R/if.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "55,0",
+        "scrollLine" : "42",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
