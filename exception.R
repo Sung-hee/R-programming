@@ -18,3 +18,17 @@ for (i in 1:4) {
   }
   print(dat$a[i] / dat$b[i])
 }
+
+# 발생한 에러를 저장하여 확인
+for (i in 1:4) {
+  if (i == 3) {
+    err <- try(print(kt), silent = T)
+  }
+  print(dat$a[i] / dat$b[i])
+}
+err
+
+# tryCatch() 라는 복잡한 처리를 할 수 있는 함수
+
+args(tryCatch)
+?tryCatch
